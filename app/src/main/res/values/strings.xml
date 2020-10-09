@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Drink App</string>
+    <string name="search_label">Buscador</string>
+    <string name="search_hint">Buscar coctel</string>
+</resources>
